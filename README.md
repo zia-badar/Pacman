@@ -1,13 +1,13 @@
 # Pacman
 Pacman Using Dijkstra's Algorithm
 
-Requirements:
+Requirements:<br>
 Allegro 5.2
 
-Compile:
+Compile:<br>
 ./build.sh
 
-Run:
+Run:<br>
 ./ex
 
 for any question email at ziabadar4991@gmail.com
